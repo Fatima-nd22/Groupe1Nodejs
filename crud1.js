@@ -45,7 +45,7 @@ function addEtudiant(matricule,prenom, nom, filiere, niveau){
 // }
 
 //<<<<<<< HEAD
-module.exports = {addPersonne};
+module.exports = {addEtudiant};
 //=======
 
 // module.exports = {addPersonne,delPersonne,UpdatePersonne};
